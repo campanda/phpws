@@ -6,6 +6,10 @@
         {
             "name": "Devristo",
             "email": "chris@devristo.com"
+        },
+        {
+            "name": "Helmut Hoffer von Ankershoffen",
+            "email": "helmut.hoffer.von.ankershoffen@campanda.com"
         }
     ],
     "autoload": {
